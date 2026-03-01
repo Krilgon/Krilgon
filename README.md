@@ -1,4 +1,4 @@
-## Hi, I'm Yuri 👋
+## Hi, I'm Yuri
 
 I'm a **Computer Science student** with a strong interest in  
 **low-level programming, operating systems security, and mobile platforms**.
@@ -37,8 +37,8 @@ and why vulnerabilities appear in real-world software.
 ![ADB](https://img.shields.io/badge/ADB-Android_Debugging-green)
 
 ### Achievements
-- 🥉 3rd place — CodeGuru Xtreme Israel qualification (150+ teams)
-- 🏅 Top-8 — CodeGuru Xtreme national finals
+- 3rd place — CodeGuru Xtreme Israel qualification (150+ teams)
+- Top-8 — CodeGuru Xtreme national finals
 - Experience with x86 Assembly under competitive constraints
 
 
