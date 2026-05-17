@@ -1,18 +1,4 @@
-## Hi, I'm Yuri
-
-I'm a **Computer Science student** with a strong interest in  
-**low-level programming, operating systems security, and mobile platforms**.
-
-I focus on understanding **how systems work internally**, how security boundaries are built,
-and why vulnerabilities appear in real-world software.
-
-### Areas of Interest
-- Mobile security (Android & iOS architecture)
-- OS security models and mitigations
-- IPC mechanisms (Binder, Mach – conceptual level)
-- Memory safety issues in C/C++
-- Low-level programming and reverse engineering (educational)
-
+## Vivere est cogitare
 ### Background
 - Competitive programming experience (C++, algorithms)
 - x86 Assembly programming (CodeGuru Xtreme)
@@ -27,11 +13,9 @@ and why vulnerabilities appear in real-world software.
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=orange)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=purple)
 
-### Security & Systems
+### Tools & Platforms
 ![Android](https://img.shields.io/badge/Android-System_Architecture-3DDC84?logo=android&logoColor=yellow)
 ![Wireshark](https://img.shields.io/badge/Wireshark-Traffic_Analysis-1679A7)
-
-### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-Version_Control-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Code_Hosting-181717?logo=github)
 ![ADB](https://img.shields.io/badge/ADB-Android_Debugging-green)
@@ -39,6 +23,6 @@ and why vulnerabilities appear in real-world software.
 ### Achievements
 - 3rd place — CodeGuru Xtreme Israel qualification (150+ teams)
 - Top-8 — CodeGuru Xtreme national finals
-- Experience with x86 Assembly under competitive constraints
+- Experience with x86 Assembly, C++ under competitive constraints
 
 
