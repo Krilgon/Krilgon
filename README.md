@@ -10,7 +10,7 @@
 ![C](https://img.shields.io/badge/C-555555?logo=c&logoColor=blue)
 ![Assembly](https://img.shields.io/badge/Assembly-x86-red)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=green)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=orange)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=yellow)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=purple)
 
 ### Tools & Platforms
