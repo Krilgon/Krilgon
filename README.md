@@ -20,9 +20,14 @@
 ![GitHub](https://img.shields.io/badge/GitHub-Code_Hosting-181717?logo=github)
 ![ADB](https://img.shields.io/badge/ADB-Android_Debugging-green)
 
+### IDEs & Reverse Engineering
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visualstudio&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellijidea&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-Reverse_Engineering-red)
+
 ### Achievements
 - 3rd place — CodeGuru Xtreme Israel qualification (150+ teams)
 - Top-8 — CodeGuru Xtreme national finals
 - Experience with x86 Assembly, C++ under competitive constraints
-
-
